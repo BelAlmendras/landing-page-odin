@@ -101,3 +101,10 @@ button {
     font-size: 24px;
     font-weight: 700;
 }
+footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    margin-top: auto;
+}
