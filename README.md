@@ -55,7 +55,7 @@ landing-page-odin/
 Exercise provided by  
 [The Odin Project](https://www.theodinproject.com/)
 
-Images from Freepik
+Images by Freepik
 
 
 ---
