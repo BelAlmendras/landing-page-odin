@@ -1,5 +1,4 @@
 # Landing page "No name" - Odin Project
-# Landing Page – The Odin Project
 
 This project is a **static landing page** created as part of  
 [The Odin Project](https://www.theodinproject.com/) curriculum, in the **Foundations** section.
@@ -10,7 +9,7 @@ The main goal of this exercise is to practice **HTML and CSS**, with a focus on 
 
 ## 🚀  Demo
 
-Click [No name Landing Page](https://google.cl)
+Click [No name Landing Page](https://belalmendras.github.io/landing-page-odin/)
 
 ---
 
